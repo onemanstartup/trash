@@ -6,7 +6,11 @@
 - router https://github.com/rackt/react-router
 - build system http://webpack.github.io
 - Flux https://github.com/goatslacker/alt/
-
+- tests http://mochajs.org/
+- stubbing http://sinonjs.org/
+- utils
+  -  https://github.com/lodash/lodash-fp vs http://ramdajs.com/
+  -  
 
 # Backend Rails
 ## Api
